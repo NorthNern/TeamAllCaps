@@ -16,7 +16,7 @@ We recognize that each organization is unique, so we designed Plaudit to be high
 
 ### Web App Outline
 
-Plaudit users may only 'register' for the site once they exist in the organization/company database - this will seed basic information about each user, including their name, email, position, and supervisor.  A new user registers by creating a password and including any extra information that will be displayed on their profile page (currently we incorporate a 'fun fact' about the user).  The encrypted password and extra information is then stored in a second database.
+Plaudit users may only 'register' for the site once they exist in the organization/company database - this will seed basic information about each user, including their name, email, work phone number, position, and supervisor.  A new user registers by creating a password and including any extra information that will be displayed on their profile page (currently we incorporate a 'fun fact' about the user).  The encrypted password and extra information is then stored in a second database.
 
 Once a user logs in, they see a feed of all the awards recently given to other members of their organization.  From here, they can access their own profile page, search for the profile page of any other user, or give a badge to another user.
 
