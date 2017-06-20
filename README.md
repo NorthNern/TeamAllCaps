@@ -6,7 +6,7 @@ Plaudit! is a workplace application that focuses on encouraging a supportive and
 
 While the Plaudit! app has a bright and cheery theme by design, styling can be customized based on client preference or corporate branding.
 
-## Core Features
+# Core Features
 
 At its basic level, Plaudit provides organizations with an internal directory of members/employees.  The Plaudit app includes an autocompleting search bar to find users, and highlights the photo and contact information for each user on their individual profile page.  The app is designed to be simple and easy to use, and is fully mobile responsive to make it just as handy when you need to contact a coworker while on the move.
 
@@ -14,7 +14,7 @@ Plaudit enhances this helpful 'directory' functionality by incorporating an awar
 
 We recognize that each organization is unique, so we designed Plaudit to be highly flexible for customization.  The information on each user's profile page can be tailored to include extra information (currently we feature a 'fun fact' about each user), and the color scheme can be altered to match an organization's image and brand. Additionally, the current 'badge types' we included are very simple, but an organization could choose to use different icons and/or declare meanings for each type of award - for example, a company may choose to include awards at different tiers (a small award for cleaning a supply closet, a giant award for working 36 hours straight to finish a massive product launch), or simply categorize the awards to fit their own unique style (a 'great idea' award, an 'extra effort' award, a 'helpfulness' award, etc).  
 
-## Web App Outline
+# Web App Outline
 
 Plaudit users may only 'register' for the site once they exist in the organization/company database - this will seed basic information about each user, including their name, email, position, and supervisor.  A new user registers by creating a password and including any extra information that will be displayed on their profile page (currently we incorporate a 'fun fact' about the user).  The encrypted password and extra information is then stored in a second database.
 
