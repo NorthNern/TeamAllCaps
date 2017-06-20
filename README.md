@@ -20,7 +20,7 @@ Plaudit users may only 'register' for the site once they exist in the organizati
 
 Once a user logs in, they see a feed of all the awards recently given to other members of their organization.  From here, they can access their own profile page, search for the profile page of any other user, or give a badge to another user.
 
-When giving a badge, a user can choose to award a co-worker a number of different award types (currently represented by a crown, a trophy, a star, and a lightbulb) and include a description for the award.  This will add a post about the award to the main feed (which is seen by every user when they log in) as well as the profile page of the user who received the award.  A notification email is also sent to both the user along with their direct supervisor (as indicated in the database), so that a recognition does not go unnoticed. 
+When giving a badge, a user can choose to award a co-worker a number of different award types (currently represented by a crown, a trophy, a star, and a lightbulb) and include a description for the award.  This will add a post about the award to the main feed (which is seen by every user when they log in) as well as the profile page of the user who received the award.  A notification email is also sent to both the user and their direct supervisor so that a recognition does not go unnoticed. 
 
 ## Technologies Used
 
