@@ -6,6 +6,22 @@ Plaudit! is a workplace application that focuses on encouraging a supportive and
 
 While the Plaudit! app has a bright and cheery theme by design, styling can be customized based on client preference or corporate branding.
 
+## Core Features
+
+At its most basic level, Plaudit provides organizations with an internal directory of members/employees, which is an incredibly useful service for any organization with more than a handful of people.  The Plaudit app includes an autocompleting search bar to find users, and highlights the photo and contact information for each user on their individual profile page.  The app is designed to be simple and easy to use, and is fully mobile responsive in order to to make it just as handy when you need to contact a coworker while on the move.
+
+Plaudit enhances this helpful 'directory' functionality by incorporating an award system for users to publically recognize their co-workers helpful actions, with the hope to make the app both highly functional and incredibly fun!
+
+We recognize that each organization is unique, so we also designed Plaudit to be highly flexible for customization.  The information on each users profile page can be tailored to include extra information (currently we feature a 'fun fact' about each user), and the color scheme can be easily altered from our to match an organizations brand. Additionally, the current 'badge types' we included are very simple, but an organization could choose to use different icons and/or declare meanings for each type of award - for example, a company may choose to include awards at different tiers (a small award for cleaning a supply closet, a giant award for working 36 hours straight to finish a massive product launch), or simply categorize the awards to fit their own unique style (a 'great idea' award, an 'extra effort' award, a 'helpfulness' award, etc).  
+
+## Web App Outline
+
+Plaudit users 'register' for the site once they exist in the organization/company database - this seeds basic information about the user, including their name, email, position, and supervisor.  They register by creating a password and including any extra information that will be displayed on their profile page (currently we incorporate a 'fun fact' abou the user).  The encrypted password and extra information is then stored in a second database.
+
+Once a user logs in, they see a feed of all the awards recently given to other members of their organization.  From here, they can access their own profile page, search for the profile page of any other user, or give a badge to another user.
+
+When giving a badge, a user to can choose to award a co-worker one of a number of different award types (currently represented by a crown, a trophy, a star, and a lightbulb) and include a description for the award.  This will add a post about the award to the main feed (which is seen by every user when they log in) as well as the profile page of the user who received the award.  A notification email is also sent to both the user along with their direct supervisor (as indicated in the database), so that a recognition does not go unnoticed. 
+
 ## Technologies Used
 
 ### Database Management
@@ -36,6 +52,7 @@ While the Plaudit! app has a bright and cheery theme by design, styling can be c
 * Javascript
 * jQuery
 * Materialize
+* Sequelize
 
 ## Getting Started and Prerequisites
 
@@ -71,16 +88,16 @@ The log out function in the side nav returns the user to the landing page.
 ![](http://i.imgur.com/GgjTBvP.png) 
 
 ### Main Page (Activity Feed)
-![](http://i.imgur.com/ZGfOS1s.png)
+![](http://i.imgur.com/vpuxamO.png)
 
 ### Side Navigation
-![](http://i.imgur.com/CarLeh2.png?1)
+![](http://i.imgur.com/1BfrIrN.png)
 
-### Profile Page (with user specific activity feed)
-![](http://i.imgur.com/Ae1vxhz.png) 
+### Profile Page (with user specific activity feed) - Also highlighting header searchbar autocomplete
+![](http://i.imgur.com/43qhpk.png) 
 
-### Give a Badge Page
-![](http://i.imgur.com/bqPdgiT.png) 
+### Give a Badge Page 
+![](http://i.imgur.com/ALSXVaY.png) 
 
 ### Frequently Asked Questions Page
 ![](http://i.imgur.com/2obdk0J.png)
