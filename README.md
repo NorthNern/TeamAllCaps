@@ -8,7 +8,7 @@ While the Plaudit! app has a bright and cheery theme by design, styling can be c
 
 ### Core Features
 
-At its basic level, Plaudit provides organizations with an internal directory of members/employees.  The Plaudit app includes an autocompleting search bar to find users, and highlights the photo and contact information for each user on their individual profile page.  The app is designed to be simple and easy to use, and is fully mobile responsive to make it just as handy when you need to contact a coworker while on the move.
+At its basic level, Plaudit provides organizations with an internal directory of members/employees.  The Plaudit app includes an autocompleting search bar to find users, and displays the photo and contact information for each user on their individual profile page.  The app is designed to be simple and easy to use, and is fully mobile responsive to make it just as handy when you need to contact a coworker while on the move.
 
 Plaudit enhances this helpful 'directory' functionality by incorporating an award system that allows users to publically recognize their co-workers' helpful actions and achievements.  The most recent awards given by any user in the organization will be displayed in a feed on the app's home page, and awards given to (or by) a specific individual will also be visible on that user's profile page. 
 
