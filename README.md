@@ -94,7 +94,7 @@ The log out function in the side nav returns the user to the landing page.
 ![](http://i.imgur.com/1BfrIrN.png)
 
 ### Profile Page (with user specific activity feed) - Also highlighting header searchbar autocomplete
-![](http://i.imgur.com/43qhpka.png) 
+![](http://i.imgur.com/xEWDuJJ.png) 
 
 ### Give a Badge Page 
 ![](http://i.imgur.com/ALSXVaY.png) 
