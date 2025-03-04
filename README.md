@@ -1,5 +1,11 @@
 # Plaudit! by TEAM ALL CAPS
 
+[See it live on Heroku!](https://plauditlive.herokuapp.com/)
+
+Guests can enter the site using the following credentials:
+
+Username: plauditapp@gmail.com | Password: guest
+
 ## Description
 
 Plaudit! is a workplace application that focuses on encouraging a supportive and uplifting work environment through positive peer feedback and recognition. Co-workers are enabled to commend one another for their hard work with company-wide visibility.
